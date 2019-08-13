@@ -8,7 +8,7 @@ Sob a orientação da [Prof.ª Dr.ª Liliane da Silva Coelho Jacon](http://busca
 Tendo como objetivo, realizar a construção (e a descrição detalhada) de um robô seguidor de linha,
 considerando os aspectos físicos de eletrônica (hardware) e os aspectos de lógica de programação (software).
 
-**Materias utilizados para o _hardware_:**
+**Materiais utilizados para o _hardware_:**
 - Arduino UNO R3;
 - Protoboard 760 pontos;
 - Bateria 9v;
