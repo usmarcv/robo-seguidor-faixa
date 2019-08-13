@@ -13,6 +13,7 @@ considerando os aspectos físicos de eletrônica (hardware) e os aspectos de ló
 - Protoboard 760 pontos;
 - Bateria 9v;
 - Chassi 2WD;
+- Clip de bateria 9v com plug P4;
 - Pilhas 1.5v (4);
 - Jumpers;
 - Módulo MOSFET IRF520N (2);  
