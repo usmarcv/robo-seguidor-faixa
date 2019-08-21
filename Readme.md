@@ -1,4 +1,4 @@
-#Projeto de Iniciação Científica (PIBIC):
+# Projeto de Iniciação Científica (PIBIC):
 
 **Construção do robô seguidor de linha: Integração de componentes eletrônicos e da lógica de programação**
 
