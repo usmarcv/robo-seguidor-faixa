@@ -16,6 +16,10 @@ int motorEsq = 6; // Porta digital do motor esquerdo
 int ESQUERDA; // Variável para armazenamento de leitura do sensor de faixa esquerdo 
 int DIREITA; // Variável para armazenamento de leitura do sensor de faixa diretito
 
+void Frente();
+void Horario();
+void Antihorario();
+
 void setup(){ // Configurações do robô
 
   Serial.begin(9600); // Leitura de valores no monitor serial da IDE Arduino
